@@ -1,0 +1,1 @@
+This is Rochelle’s first git project!
